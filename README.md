@@ -7,7 +7,7 @@ I find fulfillment in the satisfaction that arises when a program runs with no e
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Quoridor Board Game](https://github.com/samgeorge23)
+  - [Quoridor Board Game](https://github.com/samgeorge23/Quoridor-Board-Game)
 - <b>Front End Development</b>
   - [Rock Paper Scissors](https://github.com/samgeorge23)
 - <b>Python</b>
