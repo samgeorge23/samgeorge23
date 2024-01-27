@@ -15,11 +15,11 @@ I find fulfillment in the satisfaction that arises when a program runs with no e
 
 <h2>📜 Certificates</h2>
 
-- [Dean's List]()
+ ![deans list](https://github.com/samgeorge23/samgeorge23/assets/93339822/97670db3-e205-4f00-aad4-51f5e28a60ee)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SamGeorge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sam-george-633461227/
 
