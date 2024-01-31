@@ -9,9 +9,14 @@ I find fulfillment in the satisfaction that arises when a program runs with no e
 - <b>Java</b>
   - [Quoridor Board Game](https://github.com/samgeorge23/Quoridor-Board-Game)
 - <b>Front End Development</b>
-  - [Rock Paper Scissors](https://github.com/samgeorge23)
+  - [Rock Paper Scissors](https://github.com/samgeorge23/Rock-Paper-Scissors)
+  - [Barbershop Website](https://github.com/samgeorge23)
 - <b>Python</b>
-  - [Rain alert Project](https://github.com/samgeorge23)
+  - [Snake Game](https://github.com/samgeorge23/Snake-Game)
+  - [Ping-Pong Game](https://github.com/samgeorge23/Ping-Pong-Game)
+  - [Password Manager](https://github.com/samgeorge23/Password-Manager)
+  - [US States Guessing Game](https://github.com/samgeorge23/US-States-Guessing-Game)
+  - [Pomodoro App](https://github.com/samgeorge23/Pomodoro-App)
 
 <h2>📜 Certificates</h2>
 
