@@ -13,8 +13,8 @@ I find fulfillment in the satisfaction that arises when a program runs with no e
   - [Rock Paper Scissors](https://github.com/samgeorge23/Rock-Paper-Scissors)
   - [Barbershop Website](https://github.com/samgeorge23)
 - <b>Python</b>
-  - [Snake Game](https://github.com/samgeorge23/Snake-Game)
   - [Sales Analysis Project](https://github.com/samgeorge23/Sales-Analysis-Project)
+  - [Snake Game](https://github.com/samgeorge23/Snake-Game)
   - [Ping-Pong Game](https://github.com/samgeorge23/Ping-Pong-Game)
   - [Password Manager](https://github.com/samgeorge23/Password-Manager)
   - [US States Guessing Game](https://github.com/samgeorge23/US-States-Guessing-Game)
