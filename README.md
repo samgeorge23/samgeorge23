@@ -11,7 +11,7 @@ I find fulfillment in the satisfaction that arises when a program runs with no e
 - <b>Front End Development</b>
   - [Simon Game](https://github.com/samgeorge23/Simon-Game) and click on [Demo](https://samgeorge23.github.io/Simon-Game/) to view the website
   - [Rock Paper Scissors](https://github.com/samgeorge23/Rock-Paper-Scissors)
-  - [Barbershop Website](https://github.com/samgeorge23/Barbershop-Website) and click on [Demo]() to view the website
+  - [Barbershop Website](https://github.com/samgeorge23/Barbershop-Website) and click on [Demo](https://samgeorge23.github.io/Barbershop-Website/) to view the website
 - <b>Python</b>
   - [Sales Analysis Project](https://github.com/samgeorge23/Sales-Analysis-Project)
   - [Snake Game](https://github.com/samgeorge23/Snake-Game)
